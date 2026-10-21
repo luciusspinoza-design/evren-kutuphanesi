@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="720" viewBox="0 0 640 720"><defs><linearGradient id="forest" x2="0" y2="1"><stop stop-color="#33473e"/><stop offset="1" stop-color="#0d1e1b"/></linearGradient><linearGradient id="stone" x2="1" y2="1"><stop stop-color="#8f9b75"/><stop offset="1" stop-color="#334d40"/></linearGradient></defs><path fill="url(#forest)" d="M0 0h640v720H0z"/>
+<circle cx="320" cy="245" r="175" fill="#d8d4a4" opacity=".06"/><circle cx="320" cy="245" r="185" fill="none" stroke="#adbc8b" opacity=".2"/>
+<g fill="none" stroke="#142d25" stroke-width="24"><path d="M60 720 100 0M568 720 520 0M165 550 180 0M470 600 445 0"/></g>
+<g stroke="#172f28" stroke-width="12"><path d="m100 220-70-90m75 175 75-95m345-20 70-70m-55 220-85-120"/></g>
+<path fill="#20382b" d="m0 580 113-70 124 60 119-64 150 72 134-90v232H0z"/>
+<path fill="url(#stone)" stroke="#a9b18a" stroke-width="2" d="m251 338 49-45 70 20 41 88-24 108-40 17-16-79-24 7-7 96-56 7-15-80-37-29 25-78z"/>
+<path fill="#809879" d="m275 289-20-63 46-45 62 20 20 52-33 58z"/>
+<path fill="#a6b28d" d="m275 289 26-49 62-39-12 69-1 41z"/>
+<g fill="none" stroke="#90a171" stroke-width="10" stroke-linecap="round"><path d="m281 220-53-61-10-65m24 83-58-15m41-29-40-39m168 125 54-60 13-70m-22 83 55-25m-43-12 40-53"/></g>
+<g fill="#507c50"><ellipse cx="242" cy="333" rx="42" ry="22"/><ellipse cx="374" cy="340" rx="53" ry="27"/><ellipse cx="301" cy="306" rx="44" ry="19"/><ellipse cx="216" cy="380" rx="24" ry="18"/></g>
+<path fill="none" stroke="#213f2b" stroke-width="8" d="m247 350 17 52-16 47m112-107-13 65 20 49"/>
+<path fill="#f0e6b2" d="m284 250 20 2-7 8-12-3zm48 1 20-9-7 13-11 3z"/>
+<g fill="#a5b880" opacity=".7"><circle cx="160" cy="307" r="2"/><circle cx="434" cy="285" r="2"/><circle cx="198" cy="455" r="3"/><circle cx="451" cy="438" r="2"/><circle cx="360" cy="135" r="2"/></g>
+<path fill="#10231b" d="m0 650 90-58 97 30 81-20 100 37 85-40 187 34v87H0z"/><g fill="none" stroke="#657b4e" stroke-width="4"><path d="m170 640 20-65m-8 31-29-15m297 45-15-65m7 32 23-18"/></g></svg>
